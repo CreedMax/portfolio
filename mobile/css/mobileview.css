@@ -1,0 +1,183 @@
+.dview{
+	display: none;
+}
+.headDiv{
+	width: 100%;
+	height: 100%;
+
+}
+.headpar{
+	padding:  0.75% ;
+	background: darkred;
+	color: white;
+	width: 100%;
+	position: fixed;
+	display: inline-block;
+}
+h1{
+	display: inline-block;
+	width: 70%;
+
+	
+	
+}
+nav{
+	display: inline-block;
+	float: right;
+	padding-right: 2%;
+	padding-top: 1%;
+	padding-bottom: 2%;	
+
+}
+
+section{
+
+	background: bisque;
+		padding-top: 84px;
+	height: 100vh;
+	
+
+}
+#homePage{
+	padding-top: 84px;
+
+
+}
+p{
+	width: 85%;
+	background-color: #21efe5;
+	border-radius: 5px;
+	padding: 2%;
+	font-size: 3em;
+	text-align: center;
+	margin: 0 auto;
+	color: #001c8d;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	font-family: aerial;
+	text-shadow: 2px 2px black;
+}
+.name{
+	
+	line-height: 1.2;
+	font-size: 4em;
+	font-weight: bold;
+	padding: 5%;
+	margin-top: 3%;
+	color: #cdba14;
+	background-color: #1d0f67;
+	text-shadow: 2px 2px #cdba14;
+
+}
+
+img{
+	display: block;
+	padding: 0.75%;
+	width: 60%;
+	height: 22%;
+	border-radius: 50px;
+	margin: 0 auto;
+	
+}
+.wanacome{
+	display: block;
+	padding: 0;
+	width: 100vw;
+	height: 28vh;
+	border-radius: 0px;
+	margin: 0 auto;
+}
+h2{
+	font-size: 2em;
+	background-color: sandybrown;
+	padding: 3%;
+	text-shadow: 2px 2px black;
+	text-decoration: underline;
+	margin: 0;
+
+}
+footer{
+	 position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: darkred;
+  color: white;
+  text-align: left;
+  padding: 1.5%;
+  font-size: 1.3vh;
+	color: white;
+}
+#homePage{
+	background-image: url("https://image.freepik.com/free-photo/multicolored-holi-colors-front-black-background_23-2148054048.jpg");
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
+}   
+#education{
+	background-image: url("https://kaboompics.com/cache/3/2/9/3/4/32934588fd59a54aca49b4929afc5f14f251a2ff.jpeg");
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
+}
+#courses{
+	
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-summer-vacation-mathematics-training-course-blackboard-image_25065.jpg");
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
+}
+#skills{
+	background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-fresh-cold-chain-skills-training-poster-background-material-image_158324.jpg");
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
+}
+
+#hobbies{
+	background-image: url("https://as1.ftcdn.net/jpg/01/37/48/78/500_F_137487802_Fz1R9Vp2I8DJ6nKlyQAQ9r9bH5HoVqEa.jpg");
+	background-size: 100vw 100vh;
+	background-repeat: no-repeat;
+}
+table{
+	
+	font-size: 1.8em;
+	width: 90%;
+	margin: 0 auto;
+
+
+	
+}
+thead{
+	border-color: #212529;
+	background-color:#212529;
+	color: white;
+}
+tbody{
+	text-align: center;
+	border: solid 1px;
+	background-color:#fff;
+
+}
+td, tr{
+	border: solid 1px;
+	padding: 2%;
+}
+th{
+	padding: 2%;
+}
+label{
+	color: #eef605;
+	font-size: 1.em;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+.name{
+ 
+  position: relative;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  0%   {opacity: 0;}
+  100%  {opacity: 1;}
+  
+}
+
+
